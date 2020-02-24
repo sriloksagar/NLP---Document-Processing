@@ -1,1 +1,1 @@
-# Intern_ND
+useful techniques for NLP
