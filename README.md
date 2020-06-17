@@ -1,1 +1,1 @@
-Text Summarization using BERT and Named Entity Recognition using SpaCy
+Text Summarization using BERT and Named Entity Recognition
