@@ -1,17 +1,14 @@
 **Part A – Rule based Approaches and standard ML practices**  
 **Morphological operations** 
-  1.Thresholding 
-  2.Removing / omitting horizontal and vertical lines in case of tables so that the text supplied to the OCR engine will be clear of noise. 
+  Thresholding, Removing / omitting horizontal and vertical lines in case of tables so that the text supplied to the OCR engine will be clear of noise. 
 
 **OCR - to obtain the text** 
-  1.Tesseract 
-  2.Other Deep Learning Models 
+  Tesseract and other Deep Learning Models 
 
 **NLP - to understand the text**
-  1.Libraries - NLTK, SpaCy (each has language models that are used for specific type of document like scientific, medical, general English etc.)
-  2.NER (Named Entity Recognition) - Performs various text operations like tokenizing, Bag of words, Vectorization.  
-      Different models can be used like StanfordNER, SpaCy etc. and our use case depends on the kind of document we are looking to process. 
-      Most models also have the sentence tokenizers and hence they return sentences apart from entities. 
+  Libraries - NLTK, SpaCy (each has language models that are used for specific type of document like scientific, medical, general English etc.).
+  
+  NER (Named Entity Recognition) - Performs various text operations like tokenizing, Bag of words, Vectorization.Different models can be used like  StanfordNER, SpaCy etc. and our use case depends on the kind of document we are looking to process. Most models also have the sentence tokenizers and   hence they return sentences apart from entities. 
 
 **Data capture using bounding boxes** - After obtaining the entities, a search bar can be implemented to locate the text in the document. This can further be used to identify the value of interest which is around that bounded text. 
 
