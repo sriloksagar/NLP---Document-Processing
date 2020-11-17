@@ -1,5 +1,4 @@
-![scan_image]
-(https://github.com/sriloksagar/NLP/README.image.png?raw=true)
+![scan_image](https://github.com/sriloksagar/NLP/blob/master/README.image.png)
 
 
  **Morphological operations** 
