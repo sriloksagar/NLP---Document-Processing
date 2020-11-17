@@ -1,3 +1,6 @@
+![alt text](https://github.com/[sriloksagar]/[NLP]/blob/[branch]/README.image.png?raw=true)
+
+
  **Morphological operations** 
   Thresholding, Removing / omitting horizontal and vertical lines in case of tables so that the text supplied to the OCR engine will be clear of noise. 
 
