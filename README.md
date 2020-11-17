@@ -8,7 +8,7 @@
   2.Other Deep Learning Models 
 
 **NLP - to understand the text**
-  1.Libraries - NLTK, SpaCy (each has language models that are used for specific type of document like scientific, medical, general English etc.) 
+  1.Libraries - NLTK, SpaCy (each has language models that are used for specific type of document like scientific, medical, general English etc.)
   2.NER (Named Entity Recognition) - Performs various text operations like tokenizing, Bag of words, Vectorization.  
       Different models can be used like StanfordNER, SpaCy etc. and our use case depends on the kind of document we are looking to process. 
       Most models also have the sentence tokenizers and hence they return sentences apart from entities. 
