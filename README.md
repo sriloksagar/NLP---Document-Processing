@@ -13,6 +13,7 @@
 
 **Document Classification** - There are models which perform all the mentioned above operations and identify one sentence or word that classifies the given documents. E.g.- BERT, ALBERT both by Google Research. 
 
+**Keras OCR**
 Using Keras library to define train our own OCR model and also perform Bounding Box Regression. 
 Building an LSTM model for text recognition from the bounding boxes. 
  
