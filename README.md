@@ -1,4 +1,3 @@
-<!-- [https://github.com/sriloksagar/NLP/blob/master/sample_display.png] -->
 <img src="https://github.com/sriloksagar/NLP/blob/master/sample_display.png" class="img-responsive" alt=""> </div>
 
  **Morphological operations** 
