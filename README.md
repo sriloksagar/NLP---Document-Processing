@@ -1,5 +1,5 @@
-https://github.com/sriloksagar/NLP/blob/master/sample_display.png
-
+<!-- [https://github.com/sriloksagar/NLP/blob/master/sample_display.png] -->
+<img src="https://github.com/sriloksagar/NLP/blob/master/sample_display.png" class="img-responsive" alt=""> </div>
 
  **Morphological operations** 
   Thresholding, Removing / omitting horizontal and vertical lines in case of tables so that the text supplied to the OCR engine will be clear of noise. 
